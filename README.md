@@ -1,2 +1,2 @@
 # Instructions
-repo-add packages.db.tar.gz *.pkg.tar.zst
+repo-add pkgs.db.tar.gz *.pkg.tar.zst
